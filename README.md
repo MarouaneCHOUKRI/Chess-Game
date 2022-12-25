@@ -1,2 +1,3 @@
-# chess_java
+Chess-Game
+
 Chess Game using Java Swing &amp; MVC
