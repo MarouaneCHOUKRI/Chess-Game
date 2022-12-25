@@ -1,3 +1,3 @@
 Chess-Game
 
-Chess Game using Java Swing &amp; MVC
+Jeu d'échecs réaliser avec Java Swing et l'architecture MVC
